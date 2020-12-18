@@ -26,6 +26,9 @@ if (!spaceId || !accessToken) {
 module.exports = {
   siteMetadata: {
     title: "Ethan Orlander",
+    description: "My personal website",
+    author: "@ethanorlander",
+    siteUrl: "https://ethanorlander.com",
   },
   plugins: [
     {
