@@ -44,6 +44,10 @@ const IndexPage: React.FC<IndexPageProps> = (props) => {
           and excel in, tech
         </p>
       </a>
+      <a href="https://osmihelp.org/" target="_blank">
+        <h3>Open Sourcing Mental Illness</h3>
+        <p>Changing how we talk about mental health in the tech community</p>
+      </a>
       <a href="https://blackandbrownfounders.com/" target="_blank">
         <h3>Black & Brown Founders</h3>
         <p>
@@ -55,10 +59,6 @@ const IndexPage: React.FC<IndexPageProps> = (props) => {
       <a href="https://femalefoundersfund.com/" target="_blank">
         <h3>Female Founders Fund</h3>
         <p>Investing in the exponential power of exceptional female talent.</p>
-      </a>
-      <a href="https://osmihelp.org/" target="_blank">
-        <h3>Open Sourcing Mental Illness</h3>
-        <p>Changing how we talk about mental health in the tech community</p>
       </a>
     </div>
   );
