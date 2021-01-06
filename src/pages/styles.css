@@ -1,0 +1,48 @@
+body {
+  background: #212121;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-family: "Roboto", sans-serif;
+}
+
+#main-container {
+  max-width: 1000px;
+  margin: 0px 10px;
+  display: flex;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  /* color: #80deea; */
+  margin-block-end: 0px;
+}
+
+a:first-of-type {
+  margin-top: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 2px;
+  flex-grow: 1;
+  margin-bottom: 15px;
+}
+
+a h3 {
+  margin-block-start: 10px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+a p {
+  margin-block-start: 10px;
+  margin-block-end: 10px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
