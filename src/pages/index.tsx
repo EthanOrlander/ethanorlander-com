@@ -34,19 +34,19 @@ const IndexPage: React.FC<IndexPageProps> = (props) => {
       <a href="https://blacktechpipeline.com/" target="_blank">
         <h3>Black Tech Pipeline</h3>
         <p>
-          Bringing exposure, resources and opportunities to Black technologists
+          Bringing exposure, resources and opportunities to Black technologists.
         </p>
       </a>
       <a href="https://girlsintech.org/" target="_blank">
         <h3>Girls in Tech</h3>
         <p>
           Inspiring programs and a diverse community to help girls enter into,
-          and excel in, tech
+          and excel in, tech.
         </p>
       </a>
       <a href="https://osmihelp.org/" target="_blank">
         <h3>Open Sourcing Mental Illness</h3>
-        <p>Changing how we talk about mental health in the tech community</p>
+        <p>Changing how we talk about mental health in the tech community.</p>
       </a>
       <a href="https://blackandbrownfounders.com/" target="_blank">
         <h3>Black & Brown Founders</h3>
