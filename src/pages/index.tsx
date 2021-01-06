@@ -28,8 +28,8 @@ const IndexPage: React.FC<IndexPageProps> = (props) => {
     <div id="main-container">
       <h1>Welcome to my site.</h1>
       <p>
-        I haven't had a chance to set it up yet. In the meantime check out these
-        great organizations:
+        I haven't had a chance to set it up yet. In the meantime, check out
+        these great organizations:
       </p>
       <a href="https://blacktechpipeline.com/" target="_blank">
         <h3>Black Tech Pipeline</h3>
